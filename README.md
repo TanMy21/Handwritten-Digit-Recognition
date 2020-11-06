@@ -1,4 +1,4 @@
 # Handwritten-Digit-Recognition
 
 
-<img src=“./output/output.png” raw=true alt=“output image” style=“margin-right: 10px;” />
+![alt text](https://raw.githubusercontent.com/TanMy90/Handwritten-Digit-Recognition/main/output/output.png?token=ARNOVIROREUP4DXZQ3OEITK7UUI34)
